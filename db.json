@@ -1,0 +1,57 @@
+{
+    "Sessoes": [
+      {
+        "id": 1,
+        "Filme": "Morangos Silvestres",
+        "Horario": "20:30h",
+        "preco": 10.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "Filme": "Cantando na chuva",
+        "Horario": "17:30h",
+        "preco": 11.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 3,
+        "Filme": "O auto da compadecida",
+        "Horario": "19:00h",
+        "preco": 8.5,
+        "categoria_id": 2
+      },
+      {
+        "id": 4,
+        "Filme": "Estômago",
+        "Horario": "19:00h",
+        "preco": 8.5,
+        "categoria_id": 2
+      },
+      {
+        "id": 5,
+        "Filme": "Um corpo que cai",
+        "Horario": "22:00h",
+        "preco": 12.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 6,
+        "Filme": "Minha mãe é uma peça",
+        "Horario": "17:00h",
+        "preco": 8.5,
+        "categoria_id": 2
+      }
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "Filme": "Filmes em cartaz internacionais"
+      },
+      {
+        "id": 2,
+        "Filme": "Filmes em cartaz nacionais"
+      }
+      
+    ]
+  }
